@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 body {
-  background-color: #191414;
+  /* background-color: #191414; */
+  /* color: #ffffff; */
+  color: #191414;
 }
 
 /* Brand Colors of Spotify => Green => #1db954 White=> #FFFFFF  Black=> #191414*/
